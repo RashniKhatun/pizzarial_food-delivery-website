@@ -1,0 +1,50 @@
+
+/* ==================Admin panel ====================*/
+    /* ===============dashboard========== */
+    #sidebarmenu{
+        background-color: #000;
+       
+        color: #fff;
+        box-shadow: 0 2px 4px 0 rgba(249, 249, 249, 0.918);
+    }
+    .dash{
+        background-color: #525151;
+        
+    }
+    .maindashboard{
+        color: #f7f3f3;
+    }
+    .alluser{
+        background-color:#232222 ;
+        /* border: 1px solid #fff; */
+    }
+    .tablec{
+        background-color: #525151;
+        color: #eee;
+    }
+    .gap{
+        margin-left: 10px;
+    }
+    /*======================== User_Edit ====================*/
+    .edit_back{
+        padding-left: 270px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .main_edit{
+    
+        border: 2px solid rgb(34, 35, 35);
+        background-color: #000;
+        width: 50%;
+
+    }
+    /*======================= add food ======================*/
+    .a_food{
+            box-sizing: border-box;
+            border: 1px solid rgb(1, 0, 0);
+            /* background-image: url(../img/sign1.jpg); */
+            /* background-size: cover; */
+    }
+    .f_pic{
+        margin-left: -150px;
+    }
